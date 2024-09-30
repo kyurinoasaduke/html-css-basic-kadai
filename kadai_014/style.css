@@ -26,6 +26,6 @@ h1{
   color: skyblue;
 }
 
-.text-bold{
+#basic > p{
   font-weight: bold;
 }
